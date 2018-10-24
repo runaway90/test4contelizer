@@ -1,5 +1,5 @@
 <main role="main" class=" pt-5 inner cover">
-                    <h1 class="cover-heading">Test application for CONTELIZER</h1>
+                    <h1 class="cover-heading">Test application for CONTELIZER // Laravel</h1>
                     <p class="lead text-info">Application that imports beer data from remote API
                         (http://ontariobeerapi.ca/) and also is a REST API for authentication users.
                     </p>
