@@ -1,5 +1,5 @@
 <main role="main" class=" pt-5 inner cover">
-                    <h1 class="cover-heading">Test application for CONTELIZER</h1>
+                    <h1 class="cover-heading">Test application for STS</h1>
                     <p class="lead text-info">Application that imports beer data from remote API
                         (http://ontariobeerapi.ca/) and also is a REST API for authentication users.
                     </p>
@@ -8,7 +8,7 @@
                     <p class="lead">
                         <ul class="list-group">
                                 <li class="list-group-item">Create directory in You local computer. Enter in this directory.</li>
-                                                        <li class="list-group-item">Clone project from git. Enter in this directory.</li>
+                                                        <li class="list-group-item">Clone project from git."git clone https://github.com/runaway90/STS_test_app_with_ontariobeerapi.git". Enter in this directory.</li>
                                                         <li class="list-group-item">Run commands "composer install" and "cp .env.example .env"(for make file .env).</li>
                                                         <li class="list-group-item">Change permission to all repository and files in project for You local user(chown)</li>
                                                         <li class="list-group-item">Create new database(for example in MySQL). Add database info in file ".env", like as:
